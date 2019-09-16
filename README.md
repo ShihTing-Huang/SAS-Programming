@@ -54,7 +54,7 @@
 
 ## SAS Advanced : SAS Macros 
 
-## SAS Analytics / Statistics Tutorial
+## SAS Analytics : Statistics Tutorial
 
 
 
