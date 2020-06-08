@@ -1,8 +1,12 @@
 **PROC IMPORT** is the SAS procedure used to read data from excel into SAS.
 
+**Example 1**
+
 ```sas
 PROC IMPORT 
-DATAFILE="filename"
+/* Path of the Excel file that you want to import */ 
+DATAFILE="C:\Desktop\age.xls"
+/* Name of the dataset */
 OUT=SAS-data-set 
 DBMS=identifier 
   REPLACE;
